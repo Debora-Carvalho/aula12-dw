@@ -1,4 +1,4 @@
-# Aula 09 - CSS part II
+# Aula 12 - CSS parte II e Javascript
 
 - Utilizando Seletores
 - Utilizando Margens
